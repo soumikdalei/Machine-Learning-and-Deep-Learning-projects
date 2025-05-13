@@ -21,7 +21,7 @@ This repository is a collection of various machine learning projects created to 
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Googel Co Lab
 
 
 
