@@ -19,7 +19,6 @@ This repository is a collection of various machine learning projects created to 
 - Python 3.11
 - NumPy
 - Pandas
-- Matplotlib / Seaborn
 - Scikit-learn
 - Googel Co Lab
 
