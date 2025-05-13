@@ -5,7 +5,9 @@ This repository is a collection of various machine learning projects created to 
 
 ## 🚀 Projects Included
 
-Below are some example projects typically found in such a repository. You can replace or update these with your actual project names and summaries:
+1. **Linear Regression**
+   - Predict Rock or Mine using linear regression.
+   - Visualizations of loss curves and residuals.
 
 
 
