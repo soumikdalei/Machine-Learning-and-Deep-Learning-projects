@@ -12,7 +12,9 @@ This repository is a collection of various machine learning projects created to 
    - Classification using Support Vector Machine algorithm.
    - Applied to Diabetes dataset to predict if a person is diabetic or non dioabetic.
    - Visualizes decision boundaries and explores kernel tricks.
-
+2. **Logistic Regression**
+   - Predict Spam or Ham Mail using logistic regression
+   
 
 ## 🛠️ Technologies & Libraries
 
