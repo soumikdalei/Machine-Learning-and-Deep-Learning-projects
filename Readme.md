@@ -14,6 +14,7 @@ This repository is a collection of various machine learning projects created to 
    - Visualizes decision boundaries and explores kernel tricks.
 2. **Logistic Regression**
    - Predict Spam or Ham Mail using logistic regression
+   - Predict whether a person has heart disease or not using logistic regression
    
 
 ## 🛠️ Technologies & Libraries
