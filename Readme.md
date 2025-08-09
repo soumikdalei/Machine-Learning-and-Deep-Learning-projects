@@ -18,8 +18,8 @@
 
 ## 🚀 Projects Included
 1. **MNIST**
-   -Trained different models and found the perfect model for classification
-   -Achieved 99% accuracy with a perfect fit
+   - Trained different models and found the perfect model for classification
+   - Achieved 99% accuracy with a perfect fit
 
 
 ## 🛠️ Technologies & Libraries
