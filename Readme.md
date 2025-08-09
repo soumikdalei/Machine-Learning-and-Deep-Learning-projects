@@ -1,7 +1,5 @@
-# 🧠 Machine Learning Projects
+# Machine Learning Projects
 
-Welcome to the **Machine Learning Projects** repository!  
-This repository is a collection of various machine learning projects created to explore and implement core ML concepts using Python and popular libraries like Scikit-learn, Pandas, NumPy, and Matplotlib.
 
 ## 🚀 Projects Included
 
@@ -15,7 +13,11 @@ This repository is a collection of various machine learning projects created to 
 2. **Logistic Regression**
    - Predict Spam or Ham Mail using logistic regression
    - Predict whether a person has heart disease or not using logistic regression
-   
+# Deep Learning Projects   
+
+
+##🚀 Projects Included
+
 
 ## 🛠️ Technologies & Libraries
 
