@@ -29,6 +29,7 @@
 - Pandas
 - Scikit-learn
 - Googel Co Lab
+- TensorFlow
 
 
 
